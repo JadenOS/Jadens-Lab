@@ -1,4 +1,4 @@
-# Vice Lab Devlogs
+# Jaden's Lab Devlogs
 
 ## 2026
 
