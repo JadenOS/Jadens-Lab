@@ -1,4 +1,4 @@
-# Jaden's Lab Devlogs
+# jaden-server Devlogs
 
 ## 2026
 
